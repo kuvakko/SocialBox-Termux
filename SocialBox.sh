@@ -29,7 +29,7 @@ echo "		▐█ ▀. ▪     ▐█ ▌▪██ ▐█ ▀█ ██•      ▐
 echo "		▄▀▀▀█▄ ▄█▀▄ ██ ▄▄▐█·▄█▀▀█ ██▪      ▐█▀▀█▄ ▄█▀▄  ·██· "
 echo "		▐█▄▪▐█▐█▌.▐▌▐███▌▐█▌▐█ ▪▐▌▐█▌▐▌    ██▄▪▐█▐█▌.▐▌▪▐█·█▌"
 echo -e "		 ▀▀▀▀  ▀█▄▀▪·▀▀▀ ▀▀▀ ▀  ▀ .▀▀▀     ·▀▀▀▀  ▀█▄▀▪•▀▀ ▀▀$nc $blue v2.beta$nc"
-#echo -e "	[+]              $red Coded By sam.sesh$nc         		   [+]"
+#echo -e "	[+]              $red Coded By MAKUDI DAS $nc         		   [+]"
 #echo -e "	[+] 		 $red samsesh.net $nc 		   [+]"
 #echo -e "	[+] 		 $red Greetz To All Pentesters$nc          		   [+]"
 #echo -e "	[+]$red Special Greetz To$nc :$green {thelinuxchoice , Ha3MrX, Tunisian Eagles, samsesh}$nc [+]"
